@@ -55,8 +55,8 @@ The `.env` file is local configuration and must not be committed to Git.
 ### Step 1: Clone the repository
 
 ```powershell
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/Rajeev-Prajapati/LLM-Powered-File-System-Assistant.git
+cd LLM-Powered-File-System-Assistant
 ```
 
 Alternatively, open the project folder directly if you already have the source code.
