@@ -1,0 +1,14 @@
+OLIVER BROWN
+Role: Cloud Engineer
+Email: oliver@example.test
+
+SUMMARY
+Cloud engineer with 5 years of infrastructure experience.
+
+SKILLS
+AWS, Docker, Kubernetes, Terraform, Linux, CI/CD.
+
+EXPERIENCE
+Automated cloud infrastructure provisioning.
+Maintained deployment pipelines and monitoring.
+Improved reliability of development environments.

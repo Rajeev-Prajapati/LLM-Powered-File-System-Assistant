@@ -1,0 +1,3 @@
+John Doe
+Python developer with 4 years of experience.
+Experience with Django, FastAPI, and PostgreSQL.

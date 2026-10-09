@@ -1,0 +1,14 @@
+LIAM CARTER
+Role: Backend Developer
+Email: liam@example.test
+
+SUMMARY
+Backend developer with 5 years of experience.
+
+SKILLS
+Python, Flask, FastAPI, PostgreSQL, Redis, REST APIs.
+
+EXPERIENCE
+Designed backend services and API integrations.
+Improved application performance using caching.
+Maintained automated unit and integration tests.

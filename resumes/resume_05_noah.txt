@@ -1,0 +1,14 @@
+NOAH PATEL
+Role: Machine Learning Engineer
+Email: noah@example.test
+
+SUMMARY
+Machine learning engineer with 3 years of experience.
+
+SKILLS
+Python, scikit-learn, Pandas, NumPy, SQL, model evaluation.
+
+EXPERIENCE
+Prepared datasets for model training.
+Built classification and regression models.
+Evaluated model performance and documented results.

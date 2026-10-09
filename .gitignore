@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Python environment
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Test and editor artifacts
+.pytest_cache/
+.vscode/
+
+# Optional generated output
+summaries/*
+!summaries/.gitkeep
+
+# Local sample-data generator
+create_sample_resumes.py

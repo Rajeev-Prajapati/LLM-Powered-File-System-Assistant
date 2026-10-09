@@ -1,0 +1,14 @@
+MAYA SHARMA
+Role: Data Analyst
+Email: maya@example.test
+
+SUMMARY
+Data analyst with 3 years of experience in reporting and analytics.
+
+SKILLS
+Python, SQL, Excel, Power BI, Pandas, data visualization.
+
+EXPERIENCE
+Built dashboards and automated reports.
+Used Python and Pandas to clean datasets.
+Created SQL queries for business reporting.

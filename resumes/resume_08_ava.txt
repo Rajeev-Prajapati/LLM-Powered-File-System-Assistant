@@ -1,0 +1,14 @@
+AVA WILSON
+Role: Full Stack Developer
+Email: ava@example.test
+
+SUMMARY
+Full stack developer with 4 years of application development.
+
+SKILLS
+Python, Django, React, JavaScript, PostgreSQL, REST APIs.
+
+EXPERIENCE
+Developed full stack web applications.
+Implemented backend APIs using Django.
+Integrated React interfaces with backend services.

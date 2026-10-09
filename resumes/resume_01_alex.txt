@@ -1,0 +1,14 @@
+ALEX MORGAN
+Role: Python Developer
+Email: alex@example.test
+
+SUMMARY
+Python developer with 4 years of software development experience.
+
+SKILLS
+Python, Django, FastAPI, PostgreSQL, REST APIs, Git, Docker.
+
+EXPERIENCE
+Developed REST APIs using Django and FastAPI.
+Optimized PostgreSQL queries and wrote automated tests.
+Worked with Docker for local development.

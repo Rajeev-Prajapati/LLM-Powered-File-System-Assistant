@@ -1,0 +1,14 @@
+EMMA JOHNSON
+Role: QA Automation Engineer
+Email: emma@example.test
+
+SUMMARY
+QA engineer with 4 years of testing experience.
+
+SKILLS
+Python, pytest, Selenium, API testing, SQL, Git.
+
+EXPERIENCE
+Created automated regression tests.
+Tested REST APIs and investigated defects.
+Integrated tests into development workflows.

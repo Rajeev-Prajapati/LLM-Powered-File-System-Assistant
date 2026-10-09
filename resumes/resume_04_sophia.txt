@@ -1,0 +1,14 @@
+SOPHIA WILLIAMS
+Role: Frontend Developer
+Email: sophia@example.test
+
+SUMMARY
+Frontend developer with 4 years of web development experience.
+
+SKILLS
+JavaScript, TypeScript, Angular, React, HTML, CSS.
+
+EXPERIENCE
+Built reusable UI components.
+Integrated frontend applications with REST APIs.
+Improved accessibility and responsive layouts.
